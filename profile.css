@@ -1,0 +1,73 @@
+.profile{
+    box-sizing: border-box;
+    float:left;
+    font-family: 'Whitney 4r', Helvetica, Arial, sans-serif;
+    height: 700px;
+    visibility:visible;
+    width: 700px;
+margin-top:100px;
+    margin-left:14%;
+    background-color:#305C79;
+border-radius: 100px;
+padding:10px;
+}
+
+.title{color:#424042;
+    font-family: 'Whitney 4r', Helvetica, Arial, sans-serif;
+    margin-left:12%; margin-top:10%;}
+
+
+
+.tab{font-size:20px;color:#424042;margin-top:9%;
+    font-family: 'Whitney 4r', Helvetica, Arial, sans-serif;
+margin-left:20%;}
+
+
+
+
+.sch{
+    display: block;  border-bottom: 1px solid #dcdee3;
+    line-height: 23px; position: relative;
+    top:40px; color:ghostwhite ;margin-left:10%;
+
+
+}
+
+.school1{
+    line-height: 26px; position:relative;
+    top:40px; color:ghostwhite; font-size: 23px;font-weight:bold;margin-left:20%;}
+
+.major1{ line-height: 26px; position: relative; display:block;
+    top:50px; color:ghostwhite; font-size: 18px;margin-left:20%;}
+
+.school2{line-height: 26px; position: relative;
+    top:70px; color:ghostwhite; font-size: 23px;font-weight:bold;margin-left:20%;}
+
+
+.major2{line-height: 26px; position: relative; display:block;
+    top:80px; color:ghostwhite; font-size: 18px;margin-left:20%;}
+
+
+.jo{
+    display: block;  border-bottom: 1px solid #dcdee3;
+    line-height: 26px; position: relative;
+    top:90px; color:ghostwhite ;margin-left:10%;
+}
+
+.job1{line-height: 26px; position: relative;
+    top:90px; color:ghostwhite; font-size: 23px;font-weight:bold;margin-left:20%;}
+
+.major3{line-height: 26px; position: relative; display:block;
+    top:100px; color:ghostwhite; font-size: 18px;margin-left:20%;}
+
+.job2{line-height: 26px; position: relative;
+    top:130px; color:ghostwhite; font-size: 23px;font-weight:bold;margin-left:20%;}
+
+.major4{line-height: 26px; position:relative; display:block;
+    top:140px; color:ghostwhite; font-size: 18px;margin-left:20%;
+}
+.job3{line-height: 26px; position: relative;
+    top:170px; color:ghostwhite; font-size: 23px;font-weight:bold;margin-left:20%;}
+
+.major5{line-height: 26px; position: relative; display:block;
+    top:180px; color:ghostwhite; font-size: 18px;margin-left:20%;}
